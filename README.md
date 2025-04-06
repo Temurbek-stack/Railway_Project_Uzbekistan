@@ -17,6 +17,8 @@ The project includes three main Jupyter notebooks:
 - AUX_mtu_correction: Applies corrections to MTU (Regional Railway Junctions - Mintaqaviy Temir yo’l Uzeli) data.
 - MAIN_map: Generates the final map visualization of the Uzbekistan railway network. This notebook allows for interactive layer selection to view different parts of the map separately.
 
+See Data Acquisition and Cleaning.pdf file for detailed data acquisition and cleaning processes.
+
 **Usage Instructions**
 
 To use this project, follow these steps:
